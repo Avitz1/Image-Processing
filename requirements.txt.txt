@@ -1,0 +1,4 @@
+Scipy
+numpy
+opencv-python
+matplotlib
